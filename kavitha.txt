@@ -1,0 +1,5 @@
+git tag
+git checkout
+git diff
+git remote
+git push
